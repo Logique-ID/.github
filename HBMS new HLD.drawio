@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:129.0) Gecko/20100101 Firefox/129.0" version="29.1.1">
   <diagram name="Halaman-1" id="5P_uQ4PuLapSSlAeETsr">
-    <mxGraphModel dx="1395" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,19 +68,19 @@
             <mxPoint x="610" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qX5ix9hwH1TfybbIpzF3-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Consultant" vertex="1">
+        <mxCell id="qX5ix9hwH1TfybbIpzF3-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="Consultant" vertex="1">
           <mxGeometry height="60" width="120" x="20" y="520" as="geometry" />
         </mxCell>
         <mxCell id="qX5ix9hwH1TfybbIpzF3-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div&gt;Application HBMS&lt;/div&gt;" vertex="1">
           <mxGeometry height="200" width="200" x="500" y="580" as="geometry" />
         </mxCell>
-        <mxCell id="qX5ix9hwH1TfybbIpzF3-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Talent" vertex="1">
+        <mxCell id="qX5ix9hwH1TfybbIpzF3-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" value="Talent" vertex="1">
           <mxGeometry height="60" width="120" x="910" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="qX5ix9hwH1TfybbIpzF3-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Consultant Lead" vertex="1">
+        <mxCell id="qX5ix9hwH1TfybbIpzF3-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="Consultant Lead" vertex="1">
           <mxGeometry height="60" width="120" x="60" y="780" as="geometry" />
         </mxCell>
-        <mxCell id="qX5ix9hwH1TfybbIpzF3-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Director" vertex="1">
+        <mxCell id="qX5ix9hwH1TfybbIpzF3-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" value="Director" vertex="1">
           <mxGeometry height="60" width="120" x="920" y="790" as="geometry" />
         </mxCell>
         <mxCell id="qX5ix9hwH1TfybbIpzF3-36" edge="1" parent="1" source="qX5ix9hwH1TfybbIpzF3-23" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="qX5ix9hwH1TfybbIpzF3-24" value="">
